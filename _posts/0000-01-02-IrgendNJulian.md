@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+    fun sum(a: Int, b: Int) = a + b
 Use the left arrow to go back!
